@@ -1,4 +1,4 @@
-<img src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fgithub.com%2FNishantsgithub%2FNishantsgithub&psig=AOvVaw0du_LRqfCz707V3YRU5gIN&ust=1753372315401000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiFsJar044DFQAAAAAdAAAAABAK" width="400"/>
+<img src="https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif" width="400"/>
 
 # 👋 Hi, I'm an Introvert Coder
 
